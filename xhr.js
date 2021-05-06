@@ -30,3 +30,5 @@ const sendData = () => {
 
 getBtn.addEventListener("click", getData);
 postBtn.addEventListener("click", sendData);
+// Estoy en el minuto 12:10 del video 
+// https://www.youtube.com/watch?v=4K33w-0-p2c
